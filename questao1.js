@@ -6,6 +6,7 @@ var idades = [ ];
 var aux = 0;
 var media = 0.0;
 
+
 aux = parseInt(prompt ("Insira idade. Para encerrar, insira 0"));
 while (aux != 0) {
 idades.push(aux);
